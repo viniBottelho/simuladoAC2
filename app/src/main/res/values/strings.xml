@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">simuladoAC2</string>
+    <string-array name="tipos">
+        <item>Selecione o tipo</item>
+        <item>Filme</item>
+        <item>Série</item>
+        <item>Documentário</item>
+        <item>Animação</item>
+    </string-array>
+    <string-array name="generos">
+        <item>Selecione o gênero</item>
+        <item>Ação</item>
+        <item>Comédia</item>
+        <item>Drama</item>
+        <item>Terror</item>
+        <item>Ficção Científica</item>
+    </string-array>
+    <string-array name="filtro_tipos">
+        <item>Todos os tipos</item>
+        <item>Filme</item>
+        <item>Série</item>
+        <item>Documentário</item>
+        <item>Animação</item>
+    </string-array>
+</resources>
